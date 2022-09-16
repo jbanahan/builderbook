@@ -9,6 +9,7 @@ module.exports = {
   rules: {
     'prettier/prettier': [
       'error',
+      'something',
       {
         singleQuote: true,
         trailingComma: 'all',
